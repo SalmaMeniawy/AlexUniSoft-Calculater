@@ -13,7 +13,7 @@ class CalculaterServiceProvider extends ServiceProvider
      */
     public function register()
     {
-        //
+        $this->app->make('AlexUniSoft\Calculater\CalculaterController');
     }
 
     /**
