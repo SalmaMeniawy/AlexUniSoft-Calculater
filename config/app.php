@@ -161,6 +161,7 @@ return [
         Illuminate\Translation\TranslationServiceProvider::class,
         Illuminate\Validation\ValidationServiceProvider::class,
         Illuminate\View\ViewServiceProvider::class,
+        AlexUniSoft\Calculater\CalculaterServiceProvider::class,
 
         /*
          * Package Service Providers...
