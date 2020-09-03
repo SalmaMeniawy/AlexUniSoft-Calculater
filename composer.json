@@ -2,6 +2,7 @@
     "name": "alexunisoft/calculater",
     "description": "first package",
     "type": "library",
+    "license": "MIT",
     "authors": [{
         "name": "SalmaMeniawy",
         "email": "salmamostafameniawy@gmail.com"
