@@ -2,11 +2,9 @@
     "name": "alexunisoft/calculater",
     "description": "we start to create our first package",
     "license": "MIT",
-    "authors": [
-        {
-            "name": "SalmaMeniawy",
-            "email": "salmamostafameniawy@gmail.com"
-        }
-    ],
+    "authors": [{
+        "name": "SalmaMeniawy",
+        "email": "salmamostafameniawy@gmail.com"
+    }],
     "require": {}
 }
