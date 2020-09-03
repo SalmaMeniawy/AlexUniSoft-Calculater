@@ -44,7 +44,7 @@
     "autoload-dev": {
         "psr-4": {
             "Tests\\": "tests/",
-            "AlexUniSoft\\Calculater\\": "packages/AlexUniSoft/calculater/src"
+            "AlexUniSoft\\Calculater\\": "packages/AlexUniSoft/calculater/src/"
         }
     },
     "minimum-stability": "dev",
